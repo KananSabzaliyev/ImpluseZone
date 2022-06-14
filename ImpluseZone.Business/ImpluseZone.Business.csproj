@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImpluseZone.DataAccess\ImpluseZone.DataAccess.csproj" />
+    <ProjectReference Include="..\ImpluseZone.Entities\ImpluseZone.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

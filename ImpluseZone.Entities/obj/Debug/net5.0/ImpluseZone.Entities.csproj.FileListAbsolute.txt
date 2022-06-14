@@ -1,0 +1,15 @@
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ImpluseZone.Entities.deps.json
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ImpluseZone.Entities.runtimeconfig.json
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ImpluseZone.Entities.runtimeconfig.dev.json
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ImpluseZone.Entities.dll
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ref\ImpluseZone.Entities.dll
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\bin\Debug\net5.0\ImpluseZone.Entities.pdb
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.dll
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ref\ImpluseZone.Entities.dll
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.pdb
+C:\Users\Kenan\source\repos\ImpluseZone\ImpluseZone.Entities\obj\Debug\net5.0\ImpluseZone.Entities.genruntimeconfig.cache
