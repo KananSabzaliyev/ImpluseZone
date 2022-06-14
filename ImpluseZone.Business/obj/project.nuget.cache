@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5bfAOqci+m70y9q7RMD86kYC0VfS/noHpcxU7DWLCmwzvyG1PZQBr0/qhFf0BCB5cVN9lLBpV7413NYS3JFxQw==",
+  "dgSpecHash": "w9NSd7qEH0H96WY1VBHsW4pKfIQNg/GQhkPcdSGTwEIR9nHxgebKEs9YV/xpFNpSSzdKBt2qvmKAbDOXPI/zuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
+  "projectFilePath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Kenan\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

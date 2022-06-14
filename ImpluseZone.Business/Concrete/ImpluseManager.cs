@@ -16,6 +16,7 @@ namespace ImpluseZone.Business.Concrete
         public ImpluseManager(IImpluseRepository ımpluseRepository)
         {
             _ımpluseRepository = ımpluseRepository;
+
         }
         public Impluse CreateImpluse(Impluse ımpluse)
         {

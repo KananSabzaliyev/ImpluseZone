@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ARAwEiZweEunhH/SfoLkMwIxRaSMLkFpRULmjtzh6sIeuAt/5NaDqz6DENiBZ0OFPhFqUWQIYYJfd8e5PF3ZRg==",
+  "dgSpecHash": "HKyrLq9ecYIEZ0vj/nmOrpWVm+d4qc6QAuvHkeKzQt3qdVIEieMwPHOHHxtWnV7eMgWbYMFlnyEqarGanKekWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kenan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

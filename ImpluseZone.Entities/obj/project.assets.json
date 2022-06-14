@@ -5757,11 +5757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
       "projectName": "ImpluseZone.Entities",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5819,7 +5819,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

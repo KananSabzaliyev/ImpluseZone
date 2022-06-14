@@ -5719,11 +5719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.API\\ImpluseZone.API.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.API\\ImpluseZone.API.csproj",
       "projectName": "ImpluseZone.API",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.API\\ImpluseZone.API.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.API\\ImpluseZone.API.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.API\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5743,8 +5743,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj": {
-              "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj"
+            "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj": {
+              "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj"
             }
           }
         }
@@ -5776,7 +5776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

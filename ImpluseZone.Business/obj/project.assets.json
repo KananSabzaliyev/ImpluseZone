@@ -5701,11 +5701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
       "projectName": "ImpluseZone.Business",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\ImpluseZone.Business.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Business\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5725,11 +5725,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.DataAccess\\ImpluseZone.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.DataAccess\\ImpluseZone.DataAccess.csproj"
+            "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.DataAccess\\ImpluseZone.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.DataAccess\\ImpluseZone.DataAccess.csproj"
             },
-            "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj": {
-              "projectPath": "C:\\Users\\Kenan\\source\\repos\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj"
+            "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj": {
+              "projectPath": "C:\\Users\\Kenan\\Desktop\\ImpluseZone\\ImpluseZone.Entities\\ImpluseZone.Entities.csproj"
             }
           }
         }
@@ -5758,7 +5758,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
